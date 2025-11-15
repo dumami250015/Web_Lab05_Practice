@@ -1,5 +1,4 @@
 # WEB LAB 5 REPORT
----
 
 ## A. List Students (Read)
 
