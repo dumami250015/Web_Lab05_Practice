@@ -1,9 +1,4 @@
 # WEB LAB 5 REPORT
-## ⚙️ Application Code Flow 
-
-All requests are routed to the `StudentController` servlet, which is mapped to the URL pattern `/student`.
-
----
 
 ## A. List Students (Read)
 
